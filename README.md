@@ -46,10 +46,10 @@ An advanced to-do list application built with React that allows users to manage 
 ```
 
 ## Technologies Used
-React: For building the UI components.
-React Icons: For modern and customizable icons.
-CSS: For responsive and advanced styling.
+-React: For building the UI components.
+-React Icons: For modern and customizable icons.
+-CSS: For responsive and advanced styling.
 
-### Screenshot
+### Demo
 ![Screenshot (80)](https://github.com/user-attachments/assets/3e7bdde6-5218-435a-8043-dac543e22cf4)
 
