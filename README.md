@@ -34,7 +34,7 @@ An advanced to-do list application built with React that allows users to manage 
    
 2.Navigate to the project folder:
 
-  ```cd advanced-todo-app
+  cd advanced-todo-app
 
 3.Install dependencies:
 
