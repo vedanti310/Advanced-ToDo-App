@@ -33,15 +33,23 @@ An advanced to-do list application built with React that allows users to manage 
    git clone https://github.com/vedanti310/advanced-todo-app.git
    
 2.Navigate to the project folder:
-
+  ```bash
   cd advanced-todo-app
-
+  ```
 3.Install dependencies:
-
+  ```bash
   npm install
-
+  ```
 4.Start the application:
-
+```bash
   npm start
+```
 
+## Technologies Used
+React: For building the UI components.
+React Icons: For modern and customizable icons.
+CSS: For responsive and advanced styling.
+
+### Screenshot
+![Screenshot (80)](https://github.com/user-attachments/assets/3e7bdde6-5218-435a-8043-dac543e22cf4)
 
